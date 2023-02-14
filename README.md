@@ -2,7 +2,7 @@
 ### This program that I coded in C#
 
 ## Purpose:
-I was waiting for my wife to get done with her markup for an event one day and I was wondering if I could create a program that would predict what time she will be done.
+I was waiting for my wife to get done with her makeup for an event one day and I was wondering if I could create a program that would predict what time she will be done.
 
 ## The algorithm:
 This program first gets the current time using DateTime.Now. It then asks the user to input the expected travel time, distance from the destination, and traffic condition using Console.ReadLine and int.Parse. The expected arrival time is then calculated by adding the expected travel time to the current time using AddMinutes.
