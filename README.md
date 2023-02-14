@@ -1,5 +1,5 @@
 # Title: Arrival Time Prediction
-### This program that I coded in C#
+### This program is coded in C#
 
 ## Purpose:
 I was waiting for my wife to get done with her makeup for an event one day and I was wondering if I could create a program that would predict what time she will be done.
